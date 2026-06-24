@@ -9,10 +9,10 @@
     "src": "src",
     "plugins": "plugins"
   },
-  "scripts": {
-    "start": "npm install jimp && node index.js"
-    "test": "node test.js"
-  },
+"scripts": {
+  "start": "node index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+}
   "keywords": [
     "whatsapp",
     "js-whatsapp",
