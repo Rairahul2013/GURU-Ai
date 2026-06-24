@@ -10,7 +10,7 @@
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "npm install jimp && node index.js"
     "test": "node test.js"
   },
   "keywords": [
